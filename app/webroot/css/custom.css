@@ -1,0 +1,109 @@
+#dv_login
+{
+    width: 90%;
+    margin: 0px auto;
+   
+}
+
+#login_form
+{
+    margin-right:5%;
+	
+}
+.dv_header{
+	background-color: none;
+}
+
+#profile-pic
+{
+	width: 90%;
+	height: auto;
+	margin-bottom: 20%;
+	margin: 0px auto;
+	
+	
+}
+#profile-data
+{
+	width: 100%;
+	height: auto;
+	margin-bottom: 20%;
+}
+#information
+{
+	font-size: 15px;
+	font-weight: bold;
+}
+#sub-container{
+	width: 100%;
+	height: 100%;
+}
+
+#basic_info
+{
+	float:left;
+	width:40%;
+}
+#change_profile
+{
+	width:40%;
+}
+
+#create_message
+{
+	width:100%;
+	height: auto;
+	padding-bottom: 5%;
+}
+
+#contacts
+{
+	width:50%;
+	
+}
+#conversations
+{
+	width:50%;
+}
+
+.conversations
+{
+	width:100%;
+	overflow:hidden;
+    text-overflow:ellipsis;
+	background-color: white;
+}
+.error
+{
+	color:red;
+}
+.image-profile
+{
+	background: grey;
+	
+}
+a.boxclose{
+    float:right;
+    margin-top:-10px;
+    margin-right:-10px;
+    cursor:pointer;
+    color: #fff;
+    border: 1px solid #AEAEAE;
+    border-radius: 30px;
+    background: #605F61;
+    font-size: 31px;
+    font-weight: bold;
+    display: inline-block;
+    line-height: 0px;
+    padding: 11px 3px;       
+}
+
+.boxclose:before {
+    content: "×";
+
+}
+#hobby-textarea
+{
+	width:420px;
+	height:250px;
+}
